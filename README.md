@@ -1,4 +1,4 @@
-# $\Large \mu$Sic
+<center> <h1> μSic </h1> </center>
 
 # The video
 The video size was getting too large for moodle so here is the onedrive link for the following
