@@ -1,6 +1,4 @@
-<center> <h1> ```math
-SE = \frac{\sigma}{\sqrt{n}}
-``` $\Large \mu$Sic </h1> </center>
+# $\Large \mu$Sic
 
 # The video
 The video size was getting too large for moodle so here is the onedrive link for the following
