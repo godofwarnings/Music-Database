@@ -1,6 +1,6 @@
 <center> <h1> μSic </h1> </center>
 
-# The video
+## The video
 The video size was getting too large for moodle so here is the onedrive link for the following
 
 https://iiitaphyd-my.sharepoint.com/:v:/g/personal/radhikesh_agrawal_research_iiit_ac_in/EZLO7_TTk39FlQjcrl7H7tEBZETKusNRIHsgcYPBstVGZA?e=tDOOeJ
